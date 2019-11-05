@@ -1,0 +1,593 @@
+1572775267178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCC9u1D"
+1572775267699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572775267699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572775267699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572775267699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572775270232	Marionette	INFO	Listening on port 40453
+1572775270322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572775283747	Marionette	INFO	Stopped listening on port 40453
+1572775301610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLDIgSz"
+1572775302097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572775302098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572775302098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572775302098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572775304482	Marionette	INFO	Listening on port 38583
+1572775304545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 8752, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8752, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572775347546	Marionette	INFO	Stopped listening on port 38583
+1572775356650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex9lSDO"
+1572775357157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572775357157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572775357157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572775357157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572775359636	Marionette	INFO	Listening on port 36743
+1572775359696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572775371034	Marionette	INFO	Stopped listening on port 36743
+1572775508854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEoQEZz"
+1572775509329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572775509329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572775509330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572775509330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572775511754	Marionette	INFO	Listening on port 38105
+1572775511774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+1572775661741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg5hoLE"
+1572775662230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572775662230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572775662230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572775662230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572775664696	Marionette	INFO	Listening on port 45833
+1572775664772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572775699057	Marionette	INFO	Stopped listening on port 45833
+[Parent 9220, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9220, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9220, Gecko_IOThread] WARNING: pipe error (137): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572775797630	Marionette	INFO	Stopped listening on port 38105
+1572775874518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH0hr0r"
+1572775875048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572775875048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572775875049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572775875049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572775877486	Marionette	INFO	Listening on port 41175
+1572775877550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 9721, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9721, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572776410997	Marionette	INFO	Stopped listening on port 41175
+1572776414437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuUR7Lu"
+1572776414852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572776414852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572776414852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572776414852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572776417022	Marionette	INFO	Listening on port 36933
+1572776417054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 10398, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10398, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572776649473	Marionette	INFO	Stopped listening on port 36933
+1572777124731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEsb7Av"
+1572777125150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777125150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777125150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777125151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572777127554	Marionette	INFO	Listening on port 34847
+1572777127671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+1572777151795	Marionette	INFO	Stopped listening on port 34847
+1572777226593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRJ3hL7"
+1572777227042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777227042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777227042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777227042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572777229306	Marionette	INFO	Listening on port 35267
+1572777229328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+1572777254224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8mcbzw"
+1572777254650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777254650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777254650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777254650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572777256898	Marionette	INFO	Listening on port 38183
+1572777256954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 11239, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572777438433	Marionette	INFO	Stopped listening on port 35267
+[Parent 11429, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11429, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572777440046	Marionette	INFO	Stopped listening on port 38183
+1572777470593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4e7N90"
+1572777471046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777471047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777471047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777471047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572777472644	Marionette	INFO	Listening on port 44615
+1572777472744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+1572777498024	Marionette	INFO	Stopped listening on port 44615
+1572777501867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDWtb0o"
+1572777502333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777502333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777502333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777502333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572777504148	Marionette	INFO	Listening on port 38623
+1572777504180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+[Child 12147, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1572777510059	Marionette	INFO	Stopped listening on port 38623
+1572777548943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSrIK21"
+1572777549399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777549399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777549400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777549400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572777551264	Marionette	INFO	Listening on port 41553
+1572777551377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 12265, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12265, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572777591342	Marionette	INFO	Stopped listening on port 41553
+1572777709961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileynt8g1"
+1572777710416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777710417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777710417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777710417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572777712191	Marionette	INFO	Listening on port 46069
+1572777712282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+1572777795438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile68wwtl"
+1572777795874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777795874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777795874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777795874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572777797787	Marionette	INFO	Listening on port 41569
+1572777797871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 12685, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572777844735	Marionette	INFO	Stopped listening on port 41569
+[Parent 12495, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12495, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572777845834	Marionette	INFO	Stopped listening on port 46069
+1572777940583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezVbO0E"
+1572777941031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572777941031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572777941031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572777941031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572777942740	Marionette	INFO	Listening on port 44637
+1572777942805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1572778263662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4oFKIq"
+1572778264117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572778264117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572778264117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572778264117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572778265950	Marionette	INFO	Listening on port 44091
+1572778265970	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12925, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12925, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572778281423	Marionette	INFO	Stopped listening on port 44637
+1572778286506	Marionette	INFO	Stopped listening on port 44091
+1572778350686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeLi2V3"
+1572778351152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572778351152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572778351152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572778351153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572778352870	Marionette	INFO	Listening on port 43469
+1572778352901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572778361343	Marionette	INFO	Stopped listening on port 43469
+1572836260811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTMFr6m"
+1572836261291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572836261291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572836261291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572836261291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572836263071	Marionette	INFO	Listening on port 37607
+1572836263165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572836268732	Marionette	INFO	Stopped listening on port 37607
+1572836298533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1LvIWR"
+1572836298943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572836298943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572836298943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572836298943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572836300786	Marionette	INFO	Listening on port 36403
+1572836300884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572836324231	Marionette	INFO	Stopped listening on port 36403
+1572836478865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGWRd5d"
+1572836479343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572836479344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572836479344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572836479344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572836481361	Marionette	INFO	Listening on port 35991
+1572836481386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 2684, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 2684, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572845944286	Marionette	INFO	Stopped listening on port 35991
+1572866012053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiG7ra4"
+1572866012564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572866012565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572866012565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572866012565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572866014677	Marionette	INFO	Listening on port 34641
+1572866014772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=5a637227-bd7f-4919-8960-ce7a4af5a3df, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 1: SyntaxError: expected expression, got '<'
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 10165, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10165, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572866066138	Marionette	INFO	Stopped listening on port 34641
+1572866454180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles405HL"
+1572866454710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572866454710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572866454710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572866454711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572866456945	Marionette	INFO	Listening on port 44931
+1572866457009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572866464147	Marionette	INFO	Stopped listening on port 44931
+1572881157257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLaFc6g"
+1572881157712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572881157713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572881157713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572881157713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572881159478	Marionette	INFO	Listening on port 45245
+1572881159592	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1572881737685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4bsPys"
+1572881738118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572881738119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572881738119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572881738119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572881739889	Marionette	INFO	Listening on port 44029
+1572881739899	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 17081, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17081, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572881878001	Marionette	INFO	Stopped listening on port 45245
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 17370, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17370, Gecko_IOThread] WARNING: pipe error (147): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17370, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572881884558	Marionette	INFO	Stopped listening on port 44029
+1572882022746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7si92D"
+1572882023192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572882023192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572882023192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572882023192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572882025021	Marionette	INFO	Listening on port 33747
+1572882025069	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221572653775258%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.394: GtkButton does not have a child property called expand
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.394: GtkButton does not have a child property called fill
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.394: GtkButton does not have a child property called position
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.394: GtkToggleButton does not have a child property called expand
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.394: GtkToggleButton does not have a child property called fill
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.394: GtkToggleButton does not have a child property called position
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:18100): Gtk-WARNING **: 21:47:26.763: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Child 17702, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17630, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17630, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572883506000	Marionette	INFO	Stopped listening on port 33747
+1572883536695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6HcEo"
+1572883537145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572883537145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572883537145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572883537146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572883538984	Marionette	INFO	Listening on port 42355
+1572883539023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572883637471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHK97hv"
+1572883637931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572883637931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572883637931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572883637932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/aboutPrivateBrowsing.js, line 11: ReferenceError: RPMIsWindowPrivate is not defined
+1572883639676	Marionette	INFO	Listening on port 34213
+1572883639694	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18178, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 18178, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-xCpWzA/firefox-68.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1572883642047	Marionette	INFO	Stopped listening on port 42355
