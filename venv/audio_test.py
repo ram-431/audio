@@ -4,6 +4,13 @@ import requests
 import re
 import os
  
+
+
+ def counter():
+    if 'cnt' not in counter.__dict__:
+        counter.cnt = 0
+    counter.cnt += 1
+    return counter.cnt
     
 
 
@@ -28,16 +35,16 @@ def download():
     for link in links:
         html_page = requests.get(link)
         soup = BeautifulSoup(html_page.content,'html.parser')
-        a=1
         for link in soup.findAll('a', attrs={'href': re.compile("^https://drive.google.com")}):
             drive_links=(link.get('href'))
             modified_drive_link=drive_links.replace('open','uc')
+            a=counter()
             outfile = linux  + "/Desktop/osho-mahageeta/discourse "+str(a)
             url=modified_drive_link
             gdown.download(url, outfile, quiet=True)
             
             print("discourse "+str(a)+" downloaded")
-            a=a+1
+            
             
     return(drive_links)
 linux = os.getenv("HOME")
