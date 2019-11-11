@@ -1,17 +1,19 @@
-import gdown
+from selenium import webdriver
 from bs4 import BeautifulSoup
 import requests
+import os 
+import gdown
 import re
-import os
  
-
-
- def counter():
-    if 'cnt' not in counter.__dict__:
-        counter.cnt = 0
-    counter.cnt += 1
-    return counter.cnt
     
+    
+options = webdriver.FirefoxOptions()
+options.add_argument("--private")
+
+
+
+#browser = webdriver.Firefox(options=options)
+
 
 
 def get_page_links():
@@ -29,27 +31,29 @@ def get_page_links():
     #print(page_links)
     return(page_links)
 
-def download():
+def get_drive_links():
 
     links=get_page_links()
+    drive_links=[]
     for link in links:
+
         html_page = requests.get(link)
         soup = BeautifulSoup(html_page.content,'html.parser')
         for link in soup.findAll('a', attrs={'href': re.compile("^https://drive.google.com")}):
-            drive_links=(link.get('href'))
-            modified_drive_link=drive_links.replace('open','uc')
-            a=counter()
-            outfile = linux  + "/Desktop/osho-mahageeta/discourse "+str(a)
-            url=modified_drive_link
-            gdown.download(url, outfile, quiet=True)
-            
-            print("discourse "+str(a)+" downloaded")
-            
-            
+            drive_links.append((link.get('href')))
     return(drive_links)
+def download():
+    drive_links=get_drive_links()
+    a=1
+    for link in drive_links:
+        modified_drive_link=link.replace('open','uc')
+        outfile = linux  + "/Desktop/osho-mahageeta/discourse "+str(a)+".mp3"
+        url=modified_drive_link
+        gdown.download(url, outfile, quiet=True)
+
+        print("discourse "+str(a)+" downloaded")
+        a=a+1
 linux = os.getenv("HOME")
 download()
-
-
 
 
